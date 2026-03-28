@@ -36,7 +36,7 @@ export const HomePage = () => {
 
   const handleYesClick = useCallback(async () => {
     const clickedAt = new Date().toISOString();
-    const searchParams = new URLSearchParams(location.search);
+    const searchParams = new URLSearchParams(window.location.search);
     const name = searchParams.get("name") || undefined;
 
     if (yesClickService.endpoint) {

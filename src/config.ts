@@ -16,7 +16,7 @@ export const gifs = {
   };
 
 export const yesClickService = {
-  endpoint: "https://gettoolkit.app/webhook/eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..WMR9zGosTV2BQnmI.Bq63CYODxju1ONjrjLql6PDD_1oRNq-aHmx8E9jUDNJM6vntcNlx-fUEvu48enymEZZKtoYKq_LW_vPtBICVcPwLpmaCwDs.2lNIbwWXAk4KBkOGVG54Ww",
+  endpoint: "https://gettoolkit.app/webhook/eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..9SorQQFunfcmIfG5.Omcw91UtCQ0DZ32cJGzGRJtDaHelU5gu34iiUg4Xm54ogNbA91OA_yfDbV9KRxxiN9XfB0e_qmqAjGV-dTgL4PkJ9-cTVK4.9fXyN4QccQVEUzNjew4GsA",
   // endpoint: "",
 };
 
